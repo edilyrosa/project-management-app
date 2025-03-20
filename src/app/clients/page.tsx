@@ -5,8 +5,9 @@ export default function ClientHome() {
 
   return (
     <>
-        <SignupFormDemo/>
-        <ClientsList/>
+        {/* <SignupFormDemo/> */}
+        {/* <ClientsList/> */}
+        <h1>hola</h1>
     </>
   );
 }
